@@ -1,0 +1,28 @@
+.AddRecipe .content{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+.AddRecipe{
+    background-color: rgb(22, 121, 121);
+    color: rgb(75, 69, 69);
+    height: 100vh;
+}
+
+.AddRecipe label{
+    display: block;
+}
+.AddRecipe .largeInput{
+    height: 60px;
+}
+
+
+
+
+
+
+
